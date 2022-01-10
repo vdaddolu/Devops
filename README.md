@@ -1,5 +1,4 @@
-# Devops
-practice<html>
+<html>
     <head>
         <title>
             First Web Page
